@@ -1,0 +1,4 @@
+[2023-08-22 00:18:06,022][absl][WARNING] - Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+[2023-08-22 00:18:06,351][tensorflow][INFO] - Assets written to: /home/glsrujan/Documents/personal/raise_robotics/pose_est/cnn_models/3d_pose/assets
+[2023-08-22 02:21:14,240][absl][WARNING] - Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+[2023-08-22 02:21:14,659][tensorflow][INFO] - Assets written to: /home/glsrujan/Documents/personal/raise_robotics/pose_est/cnn_models/3d_pose/assets

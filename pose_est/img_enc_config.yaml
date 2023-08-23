@@ -1,0 +1,16 @@
+task: BiPegTransfer_ImgEnc-v0
+train_eps: 1000
+use_cnn: False #Dont Change as we are using this config file to generate ground truth observations
+gen_train_imgs: False
+
+#CNN
+train_cnn: True
+batch_size_cnn: 2048
+get_latest_data: True
+cnn_epochs: 50
+## CNN override training data
+folder_number: 0
+seed: 0
+hydra:
+  run:
+    dir: ./hydra_op_dir

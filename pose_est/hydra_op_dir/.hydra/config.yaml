@@ -1,0 +1,10 @@
+task: BiPegTransfer_ImgEnc-v0
+train_eps: 1000
+use_cnn: false
+gen_train_imgs: false
+train_cnn: true
+batch_size_cnn: 256
+get_latest_data: true
+cnn_epochs: 20
+folder_number: 0
+seed: 0
